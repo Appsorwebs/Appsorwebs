@@ -19,15 +19,15 @@
 <strong><em> I love learning! </em></strong>.
 ##
 - ✍️I work @ <a href="https://appsorwebs.com" target="_blank"><img alt="Appsorwebs" src="https://img.shields.io/badge/-Appsorwebs-2962FF?logo=Appsorwebs&style=flat-square" /></a>
-<!--
+
 # Technologies that I use
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Cloud Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [!Blockchain Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=BlockhainlogoColor=007acc)](#)
 
-- -->
-- Interested in What I do ? Send a mail to appsorwebs@gmail.com
 
-<!--
+- Interested in What I do? Send a mail to appsorwebs@gmail.com
+
+
 ## Github Stats
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/Appsorwebs">https://profile-summary-for-github.com/user/Appsorwebs</a>
