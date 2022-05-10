@@ -5,7 +5,6 @@
 <img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
 
 ## 👨‍💻 Follow @ https://www.linkedin.com/in/Appsorwebs/
-## https://www.linkedin.com/in/Appsorwebs/
 ## https://github.com/Appsorwebs
 ## https://twitter.com/Appsorwebs
 ## https://www.instagram.com/appsorwebs/
