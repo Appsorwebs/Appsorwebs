@@ -20,9 +20,6 @@
 ##
 - ✍️I work @ <a href="https://appsorwebs.com" target="_blank"><img alt="Appsorwebs" src="https://img.shields.io/badge/-Appsorwebs-2962FF?logo=Appsorwebs&style=flat-square" /></a>
 
-# Technologies that I use
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Cloud Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [!Blockchain Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=BlockhainlogoColor=007acc)](#)
 
 
 - Interested in What I do? Send a mail to appsorwebs@gmail.com
@@ -34,8 +31,7 @@
 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Appsorwebst&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appsorwebs&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=55% height="200px"/>
+
 
 </p>
 - -->
