@@ -25,11 +25,6 @@
 - Interested in What I do? Send a mail to appsorwebs@gmail.com
 
 
-## Github Stats
-
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/Appsorwebs">https://profile-summary-for-github.com/user/Appsorwebs</a>
-
-
 <p>
 
 
