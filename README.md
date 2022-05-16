@@ -1,10 +1,10 @@
 ## 👋 Hello World 🖥️, 
 
-## 🔮 Welcome to Appsorwebs Space!
+## 🔮 Welcome to Appsorwebs Hub!
 
 <img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
 
-## 👨‍💻 Follow @ https://www.linkedin.com/in/Appsorwebs/
+## 👨‍💻 Follow me @ https://www.linkedin.com/in/Appsorwebs/
 ## https://github.com/Appsorwebs
 ## https://twitter.com/Appsorwebs
 ## https://www.instagram.com/appsorwebs/
@@ -12,8 +12,9 @@
 ## https://dev.to/appsorwebs
 ## https://www.reddit.com/user/Appsorwebs
 ## https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
+## 👨‍💻 Learn for FREE @https://t.me/appsorwebs1
 
-## 🧙 Cloud Engineer, Web, Blockchain, Software developer & founder @Appsorwebs.
+## 🧙 I'm a Cloud Engineer, Web, Blockchain, Software developer & founder @Appsorwebs.
 ##
 <strong><em> I love learning! </em></strong>.
 ##
@@ -28,8 +29,6 @@
 
 
 </p>
-- -->
 
 <!-- Appsorwebs/Appsorwebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- -->
