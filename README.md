@@ -1,4 +1,4 @@
-## 👋 Hello World 🖥️, 
+## 👋 Hello World 🖥️
 
 ## 🔮 Welcome to Appsorwebs Hub!
 
@@ -22,7 +22,7 @@
 
 
 
-- Interested in What I do? Send a mail to appsorwebs@gmail.com
+- Interested in What I do? Send a 📧 to appsorwebs@gmail.com
 
 
 <p>
