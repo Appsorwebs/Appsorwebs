@@ -22,7 +22,7 @@
 
 
 
-- Interested in What I do? Send a 📧 to appsorwebs@gmail.com
+- Interested in What I do? Send an 📧 to appsorwebs@gmail.com
 
 
 <p>
