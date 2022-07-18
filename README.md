@@ -12,7 +12,7 @@
 ## https://dev.to/appsorwebs
 ## https://www.reddit.com/user/Appsorwebs
 ## https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
-## 👨‍💻 Learn for FREE @https://t.me/appsorwebs1
+## 👨‍💻 Learn for FREE @https://t.me/appsorwebsLearning
 
 ## 🧙 I'm a Cloud Engineer, Web, Blockchain, Software developer & founder @Appsorwebs.
 ##
