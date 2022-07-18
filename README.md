@@ -2,7 +2,7 @@
 
 ## 🔮 Welcome to Appsorwebs Hub!
 
-<img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
+<img src='https://res.cloudinary.com/appsorwebs/image/upload/v1658158447/APPSORWEBS_LTD_US_BANNER_dlksjv.png' >
 
 ## 👨‍💻 Follow me @ https://www.linkedin.com/in/Appsorwebs/
 ## https://github.com/Appsorwebs
@@ -22,7 +22,7 @@
 
 
 
-- Interested in What I do? Send an 📧 to appsorwebs@gmail.com
+- Interested in What I do? Send an 📧 to anderson@appsorwebs.com
 
 
 <p>
