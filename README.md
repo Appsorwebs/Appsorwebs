@@ -4,7 +4,7 @@
 
   <br/>
 
-  # ⚡ AI, Cloud & Systems Engineer
+  # ⚡ AI, Cloud & Engineer
   ### Engineering the Convergence of Intelligent Software & Physical Systems
 
   <p align="center">
@@ -62,7 +62,7 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 ---
 
 ### ✉️ Consultation & Professional Inquiries
-Available for strategic technology consulting, high-end software/hardware development, and corporate training to empower modern organisations.
+Available for strategic technology consulting, high-end software/hardware development, individual and corporate training to empower modern organisations.
 
 * **📧 Professional Email:** [anderson@appsorwebs.com](mailto:anderson@appsorwebs.com)
 * **🏢 Organisation:** [AppsOrWebs Limited](https://appsorwebs.com)
