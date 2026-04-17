@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://res.cloudinary.com/appsorwebs/image/upload/v1658158447/APPSORWEBS_LTD_US_BANNER_dlksjv.png" width="100%" alt="AppsOrWebs Limited" />
+  <img src="https://res.cloudinary.com/appsorwebs/image/upload/q_auto/f_auto/v1736735474/Appsorwebs_Banner_tisvmw.png" width="100%" alt="AppsOrWebs Limited" />
 
   <br/>
 
-  # ⚡ Cloud Architect & AI Systems Engineer
+  # ⚡ AI Engineer & Cloud Engineer  
   ### Bridging the Gap Between Concept and Scalable Reality
 
   <p align="center">
@@ -61,7 +61,7 @@ As a dedicated **AI Engineer and Software Architect**, I specialise in synthesis
 ---
 
 ### ✉️ Consultation & Inquiries
-I am always open to discussing high-impact projects, AI literacy initiatives, or complex software engineering challenges.
+I am always open to discussing high-impact projects, AI literacy initiatives, or software engineering challenges.
 
 * **📧 Professional Email:** [anderson@appsorwebs.com](mailto:anderson@appsorwebs.com)
 * **🏢 Company:** [AppsOrWebs Limited](https://appsorwebs.com)
