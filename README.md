@@ -8,6 +8,7 @@
   ### Engineering the Convergence of Intelligent Software & Physical Systems
 
   <p align="center">
+    <a href="https://anderson.appsorwebs.com/"><b>Professional Portfolio</b></a> •
     <a href="https://appsorwebs.com"><b>Official Website</b></a> •
     <a href="https://t.me/appsorwebsLearning"><b>Learning Hub</b></a> •
     <a href="mailto:anderson@appsorwebs.com"><b>Executive Contact</b></a>
@@ -50,13 +51,18 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 ---
 
 ### 🌐 Digital Ecosystem & Connectivity
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/Appsorwebs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Appsorwebs1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@appsorwebs"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://youtube.com/@Appsorwebs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://dev.to/appsorwebs"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/Appsorwebs"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Appsorwebs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/appsorwebs"><img src="https://img.shields.io/badge/Credly-FFB900?style=flat-square&logo=credly&logoColor=white" /></a>
+  <a href="https://g.dev/Appsorwebs"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://twitter.com/Appsorwebs1"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://hashnode.com/@Appsorwebs"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://medium.com/@appsorwebs"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://devpost.com/appsorwebs"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" /></a>
+  <a href="https://youtube.com/@Appsorwebs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/cdmHKzxf"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://tiktok.com/@appsorwebs"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,7 +72,7 @@ Available for strategic technology consulting, high-end software/hardware develo
 
 * **📧 Professional Email:** [anderson@appsorwebs.com](mailto:anderson@appsorwebs.com)
 * **🏢 Organisation:** [AppsOrWebs Limited](https://appsorwebs.com)
-* **📍 Focus:** Global Scalability & Technical Excellence
+* **📍 Portfolio:** [anderson.appsorwebs.com](https://anderson.appsorwebs.com/)
 
 <div align="right">
   <i>AI Cloud Engineer • Tech Entrepreneur • Scientist • DIY Person</i>
