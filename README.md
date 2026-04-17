@@ -4,8 +4,8 @@
 
   <br/>
 
-  # ⚡ AI & Cloud Systems Engineer
-  ### Architecting Intelligent Infrastructure & Scalable Digital Solutions
+  # ⚡ AI, Cloud & Systems Engineer
+  ### Engineering the Convergence of Intelligent Software & Physical Systems
 
   <p align="center">
     <a href="https://appsorwebs.com"><b>Official Website</b></a> •
@@ -15,8 +15,8 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Founder-AppsOrWebs%20Limited-2962FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Expertise-AI%20%26%20Cloud%20Systems-000000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Hardware-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Expertise-AI_SaaS_%26_IoT-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-Full_Stack_Engineering-red?style=for-the-badge" />
   </p>
 
 </div>
@@ -24,7 +24,7 @@
 ---
 
 ### 🔮 Executive Summary
-As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex technological requirements into high-performance, resilient infrastructures. My methodology integrates scientific rigour with an entrepreneurial mindset, focusing on the deployment of robust AI Agents, hardware integration, and secure cloud orchestration to empower global digital transformation.
+As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex technological requirements into high-performance, resilient infrastructures. My methodology integrates scientific rigour with an entrepreneurial mindset, focusing on the deployment of robust AI Agents, hardware-software integration, and secure cloud orchestration to empower global digital transformation.
 
 ---
 
@@ -32,19 +32,19 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 
 | Vertical | Proficiency & Offerings |
 | :--- | :--- |
-| **Intelligence** | AI Agent Integration, AI Engineering, LLM Implementation |
+| **Intelligence** | AI Agent Integration, AI-Powered Applications, LLM Implementation |
+| **Software & SaaS** | Enterprise App Development, Scalable SaaS Solutions, Web Architecture |
+| **Physical Systems** | Hardware Integration, IoT Infrastructure, Industrial Power Systems |
 | **Cloud & Security** | Microsoft Azure, Cloudflare, Cybersecurity Infrastructure |
-| **Development** | Full-Stack Architecture, Hardware Integration, E-commerce |
 | **Consulting** | ICT Solutions, Technology Audits, Digital Literacy Strategy |
 | **Training** | Professional Industry Certification, Organisational Tech-Training |
-| **Decentralised Tech** | Solidity, Web3.js, Blockchain Protocol Design |
 
 ---
 
 ### 📊 Analytical Insights & Performance
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Appsorwebs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appsorwebs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appsorwebs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=C+" height="170px" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 ---
 
 ### ✉️ Consultation & Professional Inquiries
-Available for strategic technology consulting, AI-powered application development, and top-notch individual or corporate training.
+Available for strategic technology consulting, high-end software/hardware development, and corporate training to empower modern organisations.
 
 * **📧 Professional Email:** [anderson@appsorwebs.com](mailto:anderson@appsorwebs.com)
 * **🏢 Organisation:** [AppsOrWebs Limited](https://appsorwebs.com)
