@@ -4,7 +4,7 @@
 
   <br/>
 
-  # ⚡ AI, Cloud & Engineer
+  # ⚡ AI, Cloud & Systems Engineer
   ### Engineering the Convergence of Intelligent Software & Physical Systems
 
   <p align="center">
@@ -41,7 +41,7 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 
 ---
 
-### Analytical Insights & Performance
+### 📊 Analytical Insights & Performance
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Appsorwebs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appsorwebs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=C+" height="170px" />
@@ -62,7 +62,7 @@ As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex t
 ---
 
 ### ✉️ Consultation & Professional Inquiries
-Available for strategic technology consulting, high-end software/hardware development, individual and corporate training to empower modern organisations.
+Available for strategic technology consulting, high-end software/hardware development, and corporate training to empower modern organisations.
 
 * **📧 Professional Email:** [anderson@appsorwebs.com](mailto:anderson@appsorwebs.com)
 * **🏢 Organisation:** [AppsOrWebs Limited](https://appsorwebs.com)
