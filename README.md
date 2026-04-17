@@ -4,7 +4,7 @@
 
   <br/>
 
-  # ⚡ AI Engineer & Cloud Engineer  
+  # ⚡ AI & Cloud Engineer
   ### Bridging the Gap Between Concept and Scalable Reality
 
   <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 ### 🔮 Executive Summary
-As a dedicated **AI Engineer and Software Architect**, I specialise in synthesising complex technological requirements into high-performance, resilient infrastructures. My approach prioritises absolute linguistic precision in code, strategic depth in architecture, and a "Rich Dark" aesthetic in user-centric design.
+As a dedicated **AI and Cloud Engineer**, I specialise in synthesising complex technological requirements into high-performance, resilient infrastructures. My methodology integrates scientific rigour with an entrepreneurial mindset, focusing on the deployment of robust AI models, seamless cloud orchestration, and innovative, hands-on engineering solutions.
 
 ---
 
@@ -68,5 +68,5 @@ I am always open to discussing high-impact projects, AI literacy initiatives, or
 * **📍 Focus:** Global Scalability & Technical Excellence
 
 <div align="right">
-  <i>Linguistic Precision. Strategic Depth. Intellectual Rigour.</i>
+  <i>AI Cloud Engineer • Tech Entrepreneur • Scientist • DIY Person</i>
 </div>
